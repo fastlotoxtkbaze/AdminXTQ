@@ -27,12 +27,4 @@
     }
     button:hover {
       background-color: #ffc107;
-    }
-  </style>
-</head>
-<body>
-  <h1>🎰 FastLotoAze Onlayn Casino 🎲</h1>
-  <p>Xoş gəldiniz! Oyuna başlamaq üçün aşağıdakı düyməyə klikləyin.</p>
-  <button>Oyna</button>
-</body>
-</html>
+    
